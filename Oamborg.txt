@@ -1,0 +1,19 @@
+Character Details
+Class: Cleric
+Race: Gnome
+
+ Ability Scores
+Strength: 13
+Dexterity: 10
+Constitution: 14
+Intelligence: 15
+Wisdom: 13
+Charisma: 17
+
+ Score Modifiers
+Strength: 1
+Dexterity: 0
+Constitution: 2
+Intelligence: 2
+Wisdom: 1
+Charisma: 3
