@@ -1,0 +1,25 @@
+Class
+Barbarian | Strength
+Bard | Charisma
+Cleric | Wisdom
+Druid | Wisdom
+Fighter | Strength | Dexterity
+Monk | Dexterity | Wisdom
+Paladin | Strength | Charisma
+Ranger | Dexterity | Wisdom
+Rogue | Dexterity
+Sorcerer | Charisma
+Warlock | Charisma
+Wizard | Intelligence
+
+Race
+Dragonborn | Strength | 2 | Charisma | 1
+Dwarf | Constitution | 2
+Elf | Dexterity | 2
+Gnome | Intelligence | 2
+Half-Elf | Charisma | 2 | Strength | 2
+Halfling | Dexterity | 2
+Half-Orc | Strength | 2 | Constitution | 1
+Human | Strength | 1 | Wisdom | 1 | Charisma | 1 | Dexterity | 1 | Intelligence | 1 | Constitution | 1 
+Tiefling | Charisma | 2 | Intelligence | 1
+
