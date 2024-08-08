@@ -372,7 +372,7 @@ class ClassPage(wx.adv.WizardPageSimple):
         self.score_dict = {}
         self.character_dict = {}
         self.CONSTANTS = CONSTANTS
-        self.RaceClass = raceClass('/Users/homefolder/VSCode/DnD/Data/Class_Race.txt', 1, 'Race\n')
+        self.RaceClass = raceClass('Class_Race.txt', 1, 'Race\n')
         self.create_c_page()   
 
     def create_c_page(self):
